@@ -1,5 +1,5 @@
-Project Name
-=================
+The Novel of Horror Expertise
+=============================
 This site introduces the novel *The Horror Expert* by Frank Long.
 
 Data Source 
@@ -12,4 +12,4 @@ Items of Intrest
 
 Proposed Layout
 ---------------
-Rendered image showing the layout.
+![Proposed Layout](/docs/layout.drawio.png "Layout")
