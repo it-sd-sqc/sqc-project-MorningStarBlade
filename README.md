@@ -1,8 +1,7 @@
 # Your project name
-Your given and family name.
+Anya Dinger
 
 A one-sentence description of your project.
 
 NICK STEFFENS can handle rejection.
-=======
 Hello from MORGAN!
