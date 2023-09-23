@@ -15,5 +15,4 @@ Items of Intrest
 
 ER Diagrams
 -----------
-erDiagram
-  CHAPTER ||--|{ DATABASE
+![ER Diagram](/docs/BookProjectDiagram.png "Diagram")
