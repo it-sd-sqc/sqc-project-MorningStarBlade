@@ -16,4 +16,4 @@ Items of Intrest
 
 ER Diagrams
 -----------
-![ER Diagram](/docs/BookProjectDiagram.png "Diagram")
+![ER Diagram](/docs/BookProjectDiagramV2.drawio.png "Diagram")
