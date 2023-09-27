@@ -12,7 +12,8 @@ Data Source
 Items of Intrest
 ----------------
 + Chapters
++ Descriptions
 
 ER Diagrams
 -----------
-![ER Diagram](/docs/BookProjectDiagram.png "Diagram")
+![ER Diagram](/docs/BookProjectDiagramV2.drawio.png "Diagram")
